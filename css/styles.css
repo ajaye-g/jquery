@@ -1,5 +1,5 @@
 body{
-	background:whitesmoke;
+	background:white;
 	
 }
 
@@ -7,7 +7,7 @@ body{
 	width:300px;
 	margin-left:450px;
 	padding:20px;
-	background-color:bisque;
+	background-color:whitesmoke;
 	border-radius:4px;
 	font-size:12px;
 }
@@ -27,4 +27,8 @@ body{
 }
 .error{
 	color:red;
+	font-size:10px;
+}
+.language{
+	display:flex;
 }
