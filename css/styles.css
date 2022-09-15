@@ -1,5 +1,5 @@
 body{
-	background:white;
+	background:#039dfc;
 	
 }
 
@@ -9,7 +9,7 @@ body{
 	padding:20px;
 	background-color:whitesmoke;
 	border-radius:5px;
-	font-size:12px;
+	font-size:15px;
 }
 
 #form button {
@@ -31,4 +31,7 @@ body{
 }
 .language{
 	display:flex;
+}
+.details1{
+	margin-top:15px;
 }
